@@ -17,4 +17,4 @@
 <li>Contributed to the creation of a feature-rich fitness application.</li>
   
 <h3>Application Link</h3>
-<h5>The website can be viewed at: <a href="https://fitwave.netlify.app/" target="_blank">FitWave</a></h5>
+<h5>The website can be viewed at: <a href="https://fitwave.netlify.app/" target="_blank">https://fitwave.netlify.app/</a></h5>
